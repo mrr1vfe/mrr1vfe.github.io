@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>School on mrr1vfe</title>
+    <link>https://www.mrr1vfe.io/series/school/</link>
+    <description>Recent content in School on mrr1vfe</description>
+    <image>
+      <url>https://www.mrr1vfe.io/papermod-cover.png</url>
+      <link>https://www.mrr1vfe.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mrr1vfe.io/series/school/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Matrix Methods in Machine Learning</title>
+      <link>https://www.mrr1vfe.io/posts/cs532/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/posts/cs532/</guid>
+      <description>Unit 2  Linear Independence and Rank in Learning  Linear independence  A set of $M$ vectors $v_1, v_2, \cdots, v_m \in \mathbb{R}^N$ is linear independent if and only if \[\sum^M_{i=1} v_i\alpha_i = 0 \Leftrightarrow \alpha_i = 0, i = 1, 2, \cdots M.\] Otherwise, it&amp;#39;s called linearly dependent. A matrix multiplication of $Aw = d$ can be interpreted as the linear combination of the columns of $A$, where the weight for the $i^\text{th}$ column is the $i^\text{th}$ element of $w$.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Artifical Intelligence</title>
+      <link>https://www.mrr1vfe.io/posts/cs540/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/posts/cs540/</guid>
+      <description>Basic Python, comparing to Java 1    Why are we using python?   It has a large amount of better machine learning libraries.
+  Useful link   Online Python compiler
+  Key differences from Java	   Do not bother with a class unless you actually want to make an object.
+  Functions do not need return types (or parameter types).</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Operating Systems</title>
+      <link>https://www.mrr1vfe.io/posts/cs537/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/posts/cs537/</guid>
+      <description>Introduction 1  OS abstraction  Provide standard library to access resource that is valuable such as CPU, memory, and monitor. OS providing abstraction has a variety of advantages. It allows applications to reuse common facilities; it makes different devices look the same; and it provides higher-level or more useful functionality. The challenges of OS providing abstraction are identifying the correct abstraction and deciding how much of hardware should be exposed.</description>
+    </item>
+    
+    <item>
+      <title>Theory and Design of Programming Languages</title>
+      <link>https://www.mrr1vfe.io/posts/cs538/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/posts/cs538/</guid>
+      <description>Lecture 1 1  Functional programming  History    Based on $\lambda$ calculus
+  Lisp
+  ML
+  Haskell
+    Building block    function   take inputs as arguments and produce outputs.
+  Functions are first class, like any other value. They can be passed to, returned by functions. Functions can also be combined into new function.</description>
+    </item>
+    
+  </channel>
+</rss>

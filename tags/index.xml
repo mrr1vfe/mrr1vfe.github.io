@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on mrr1vfe</title>
+    <link>https://www.mrr1vfe.io/tags/</link>
+    <description>Recent content in Tags on mrr1vfe</description>
+    <image>
+      <url>https://www.mrr1vfe.io/papermod-cover.png</url>
+      <link>https://www.mrr1vfe.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mrr1vfe.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rust</title>
+      <link>https://www.mrr1vfe.io/tags/rust/</link>
+      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/tags/rust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matrix</title>
+      <link>https://www.mrr1vfe.io/tags/matrix/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/tags/matrix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Norm</title>
+      <link>https://www.mrr1vfe.io/tags/norm/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/tags/norm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SVD</title>
+      <link>https://www.mrr1vfe.io/tags/svd/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/tags/svd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SVM</title>
+      <link>https://www.mrr1vfe.io/tags/svm/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/tags/svm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C</title>
+      <link>https://www.mrr1vfe.io/tags/c/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/tags/c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cache</title>
+      <link>https://www.mrr1vfe.io/tags/cache/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/tags/cache/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization</title>
+      <link>https://www.mrr1vfe.io/tags/optimization/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/tags/optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CFG</title>
+      <link>https://www.mrr1vfe.io/tags/cfg/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/tags/cfg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Compiler</title>
+      <link>https://www.mrr1vfe.io/tags/compiler/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/tags/compiler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Haskell</title>
+      <link>https://www.mrr1vfe.io/tags/haskell/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/tags/haskell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lambda-Calculus</title>
+      <link>https://www.mrr1vfe.io/tags/lambda-calculus/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/tags/lambda-calculus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://www.mrr1vfe.io/tags/python/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory</title>
+      <link>https://www.mrr1vfe.io/tags/memory/</link>
+      <pubDate>Fri, 11 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/tags/memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Django</title>
+      <link>https://www.mrr1vfe.io/tags/django/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/tags/django/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MySQL</title>
+      <link>https://www.mrr1vfe.io/tags/mysql/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RegEx</title>
+      <link>https://www.mrr1vfe.io/tags/regex/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/tags/regex/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

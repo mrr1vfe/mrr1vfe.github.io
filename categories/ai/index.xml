@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI on mrr1vfe</title>
+    <link>https://www.mrr1vfe.io/categories/ai/</link>
+    <description>Recent content in AI on mrr1vfe</description>
+    <image>
+      <url>https://www.mrr1vfe.io/papermod-cover.png</url>
+      <link>https://www.mrr1vfe.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mrr1vfe.io/categories/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Matrix Methods in Machine Learning</title>
+      <link>https://www.mrr1vfe.io/posts/cs532/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/posts/cs532/</guid>
+      <description>Unit 2  Linear Independence and Rank in Learning  Linear independence  A set of $M$ vectors $v_1, v_2, \cdots, v_m \in \mathbb{R}^N$ is linear independent if and only if \[\sum^M_{i=1} v_i\alpha_i = 0 \Leftrightarrow \alpha_i = 0, i = 1, 2, \cdots M.\] Otherwise, it&amp;#39;s called linearly dependent. A matrix multiplication of $Aw = d$ can be interpreted as the linear combination of the columns of $A$, where the weight for the $i^\text{th}$ column is the $i^\text{th}$ element of $w$.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Artifical Intelligence</title>
+      <link>https://www.mrr1vfe.io/posts/cs540/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/posts/cs540/</guid>
+      <description>Basic Python, comparing to Java 1    Why are we using python?   It has a large amount of better machine learning libraries.
+  Useful link   Online Python compiler
+  Key differences from Java	   Do not bother with a class unless you actually want to make an object.
+  Functions do not need return types (or parameter types).</description>
+    </item>
+    
+  </channel>
+</rss>

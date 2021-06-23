@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ML on mrr1vfe</title>
+    <link>https://www.mrr1vfe.io/categories/ml/</link>
+    <description>Recent content in ML on mrr1vfe</description>
+    <image>
+      <url>https://www.mrr1vfe.io/papermod-cover.png</url>
+      <link>https://www.mrr1vfe.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mrr1vfe.io/categories/ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Matrix Methods in Machine Learning</title>
+      <link>https://www.mrr1vfe.io/posts/cs532/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/posts/cs532/</guid>
+      <description>Unit 2  Linear Independence and Rank in Learning  Linear independence  A set of $M$ vectors $v_1, v_2, \cdots, v_m \in \mathbb{R}^N$ is linear independent if and only if \[\sum^M_{i=1} v_i\alpha_i = 0 \Leftrightarrow \alpha_i = 0, i = 1, 2, \cdots M.\] Otherwise, it&amp;#39;s called linearly dependent. A matrix multiplication of $Aw = d$ can be interpreted as the linear combination of the columns of $A$, where the weight for the $i^\text{th}$ column is the $i^\text{th}$ element of $w$.</description>
+    </item>
+    
+  </channel>
+</rss>

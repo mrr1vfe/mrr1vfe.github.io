@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lambda-Calculus on mrr1vfe</title>
+    <link>https://www.mrr1vfe.io/tags/lambda-calculus/</link>
+    <description>Recent content in Lambda-Calculus on mrr1vfe</description>
+    <image>
+      <url>https://www.mrr1vfe.io/papermod-cover.png</url>
+      <link>https://www.mrr1vfe.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.mrr1vfe.io/tags/lambda-calculus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Theory and Design of Programming Languages</title>
+      <link>https://www.mrr1vfe.io/posts/cs538/</link>
+      <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.mrr1vfe.io/posts/cs538/</guid>
+      <description>Lecture 1 1  Functional programming  History    Based on $\lambda$ calculus
+  Lisp
+  ML
+  Haskell
+    Building block    function   take inputs as arguments and produce outputs.
+  Functions are first class, like any other value. They can be passed to, returned by functions. Functions can also be combined into new function.</description>
+    </item>
+    
+  </channel>
+</rss>
